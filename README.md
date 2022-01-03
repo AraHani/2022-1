@@ -1,5 +1,4 @@
-# 2022 Kookmin University 
-# Undergraduate Scholarship Student Project
+# 2022 Kookmin University Undergraduate Scholarship Student Project
 
 ## Can I use Pytorch & TensorFlow in Automotive Intelligence?
 
