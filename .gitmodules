@@ -1,0 +1,3 @@
+[submodule "tf-trt"]
+	path = tf-trt
+	url = https://github.com/AraHani/models.git
